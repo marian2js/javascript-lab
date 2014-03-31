@@ -6,9 +6,6 @@
     "Mariano Pardo <marianomdq1@gmail.com>"
   ],
   "main": "index.js",
-  "moduleType": [
-    "es6"
-  ],
   "license": "MIT",
   "ignore": [
     "**/.*",

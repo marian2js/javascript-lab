@@ -17,16 +17,12 @@
   },
   "homepage": "https://github.com/marian2js/javascript-lab",
   "dependencies": {
-    "grunt": "^0.4.4",
-    "traceur": "0.0.32"
+    "grunt": "^0.4.4"
   },
   "devDependencies": {
     "karma": "^0.12.2",
     "grunt-karma": "^0.8.2",
-    "karma-jasmine": "^0.1.5",
-    "karma-chrome-launcher": "^0.1.2",
-    "karma-traceur-preprocessor": "^0.2.2",
-    "karma-requirejs": "^0.2.1",
-    "requirejs": "^2.1.11"
+    "karma-jasmine": "~0.2.0",
+    "karma-chrome-launcher": "^0.1.2"
   }
 }

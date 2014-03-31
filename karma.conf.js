@@ -7,17 +7,11 @@ module.exports = function(config) {
     basePath: 'src',
 
     // testing framework to use (jasmine/mocha/qunit/...)
-    frameworks: ['jasmine', 'requirejs', 'traceur'],
-
-    preprocessors: {
-      '**/*.es6.js': ['traceur']
-    },
+    frameworks: ['jasmine'],
 
     // list of files / patterns to load in the browser
     files: [
-      {pattern: '**/*.es6.js', included: false},
-      {pattern: '**/*Spec.es6.js', included: false},
-      'test/config.js'
+      '**/*.js'
     ],
 
 
