@@ -1,0 +1,32 @@
+{
+  "name": "javascript-lab",
+  "version": "0.0.0",
+  "description": "JavaScript Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marian2js/javascript-lab.git"
+  },
+  "author": "Mariano Pardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marian2js/javascript-lab/issues"
+  },
+  "homepage": "https://github.com/marian2js/javascript-lab",
+  "dependencies": {
+    "grunt": "^0.4.4",
+    "traceur": "0.0.32"
+  },
+  "devDependencies": {
+    "karma": "^0.12.2",
+    "grunt-karma": "^0.8.2",
+    "karma-jasmine": "^0.1.5",
+    "karma-chrome-launcher": "^0.1.2",
+    "karma-traceur-preprocessor": "^0.2.2",
+    "karma-requirejs": "^0.2.1",
+    "requirejs": "^2.1.11"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "javascript-lab",
+  "version": "0.0.0",
+  "homepage": "https://github.com/marian2js/javascript-lab",
+  "authors": [
+    "Mariano Pardo <marianomdq1@gmail.com>"
+  ],
+  "main": "index.js",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
