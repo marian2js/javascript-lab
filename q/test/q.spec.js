@@ -58,4 +58,25 @@ describe('Q', function () {
       .complete(done);
   });
 
+  it('should chain multiple "thens"', function (done) {
+    async(true)
+      .then(function (val) {
+        expect(val).toBe(true);
+
+        return 'value';
+      })
+      .then(function (val) {
+        expect(val).toBe('value');
+
+        return 'value 2';
+      })
+      .then(function (val) {
+        expect(val).toBe('value 2');
+      })
+      .fail(function () {
+        jasmine.fail(Error('It should never be here'));
+      })
+      .complete(done);
+  });
+
 });
