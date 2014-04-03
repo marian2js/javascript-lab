@@ -18,13 +18,13 @@ Please fork this repository, and send a PR as soon as the lab is finished. After
 * https://github.com/globant-ui/javascript-style-guide#resources
 
 ##Exercises
-1. Complete the following JavaScript assessment: https://github.com/rmurphey/js-assessment
+1. ~~Complete the following JavaScript assessment: https://github.com/rmurphey/js-assessment
 
-2. Implement a Pub/Sub library: http://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern. Provide unit tests, Jasmine can be used.
+2. ~~Implement a Pub/Sub library: http://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern. Provide unit tests, Jasmine can be used.~~
 
-3. Implement a Promise library based on the following specification: http://promises-aplus.github.io/promises-spec/. Provide unit tests, [Jasmine](http://jasmine.github.io/2.0/introduction.html) can be used.
+3. ~~Implement a Promise library based on the following specification: http://promises-aplus.github.io/promises-spec/. Provide unit tests, [Jasmine](http://jasmine.github.io/2.0/introduction.html) can be used.~~
 
-4. Implement a library to perform AJAX calls. Define your API without callbacks, reuse your promise library. The library must work across different browsers IE9+, Chrome, FF, Safari. Provide unit tests, [Jasmine](http://jasmine.github.io/2.0/introduction.html) can be used.
+4. ~~Implement a library to perform AJAX calls. Define your API without callbacks, reuse your promise library. The library must work across different browsers IE9+, Chrome, FF, Safari. Provide unit tests, [Jasmine](http://jasmine.github.io/2.0/introduction.html) can be used.~~
 
 5. Create a Pacman game. Design your application using an object-oriented approach. Use the module pattern to structure your implementation. Implement Ghost's AI algorithm following [this](http://gameinternals.com/post/2072558330/understanding-pac-man-ghost-behavior) article. Add sounds to the different game actions.
   * This exercise will be evaluated on the basis of design, and code quality. The game must be structured following a saneobject-oriented structure. Implementation must reflect JavaScript best practices. This exercise will not be evaluated on the basis of cross-browsing, or performance issues.
