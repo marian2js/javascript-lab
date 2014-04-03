@@ -18,7 +18,7 @@ Please fork this repository, and send a PR as soon as the lab is finished. After
 * https://github.com/globant-ui/javascript-style-guide#resources
 
 ##Exercises
-1. ~~Complete the following JavaScript assessment: https://github.com/rmurphey/js-assessment
+1. ~~Complete the following JavaScript assessment: https://github.com/rmurphey/js-assessment~~
 
 2. ~~Implement a Pub/Sub library: http://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern. Provide unit tests, Jasmine can be used.~~
 
